@@ -1,0 +1,64 @@
+
+{
+	"basics": {
+		"name": "Lawanbanshan Kurbah",
+		"label": "Student",
+		"picture": "https://www.instagram.com/p/CMj8R7ZFQSF9QHreSOdIMK6Df9WlEWFUZSM-Fk0/",
+		"email": "kurbahla@gmail.com",
+		"phone": "+91 9862195862",
+		"summary": "I am a student of Indian Institute of Information Technology,Kota, pursuing my bachelor in Computer Science Engineering.",
+		"location": {
+			"address": "Mairang, Megalaya",
+			"postalCode": "793120",
+			"city": "Shillong",
+			"countryCode": "India",
+			"region": "Meghalaya"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "KurbahLawan",
+				"url": "https://www.twitter.com/KurbahLawan"
+			},
+			{
+				"network": "Github",
+				"username": "ThiasGuy",
+				"url": "https://www.github.com/ThiasGuy"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Kurbah_01",
+				"url": "https://instagram.com/Kurbah_01"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2018-04-08",
+		"endDate": "2023-",
+		"gpa": "6.72",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "MySql"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Basketball", "Swimming"]
+    "name": "Activities",
+		"keywords": ["Trekking", "kayaking"]
+    "name": "Games",
+		"keywords": ["Valorant", "DOTA"]
+	}],
+	
+}
