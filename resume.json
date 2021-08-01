@@ -1,4 +1,3 @@
-
 {
 	"basics": {
 		"name": "Lawanbanshan Kurbah",
@@ -47,18 +46,23 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	
+
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "MySql"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Football", "Basketball", "Swimming"]
-    "name": "Activities",
-		"keywords": ["Trekking", "kayaking"]
-    "name": "Games",
-		"keywords": ["Valorant", "DOTA"]
-	}],
-	
+			"name": "Sports",
+			"keywords": ["Football", "Basketball", "Swimming"]
+		},
+		{
+			"name": "Activities",
+			"keywords": ["Trekking", "kayaking"]
+		},
+		{
+			"name": "Games",
+			"keywords": ["Valorant", "DOTA"]
+		}
+	]
+
 }
